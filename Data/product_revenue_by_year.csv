@@ -1,0 +1,925 @@
+ProductName,Year,Revenue
+"Zaanse koeken",2012,82260.5
+"Zaanse koeken",2013,163685.0
+"Zaanse koeken",2014,158555.0
+"Zaanse koeken",2015,174505.5
+"Zaanse koeken",2016,165083.78
+"Zaanse koeken",2017,167784.25
+"Zaanse koeken",2018,152398.05
+"Zaanse koeken",2019,168359.0
+"Zaanse koeken",2020,159657.0
+"Zaanse koeken",2021,186855.5
+"Zaanse koeken",2022,158118.0
+"Zaanse koeken",2023,142034.5
+"Wimmers gute Semmelknödel",2012,291901.75
+"Wimmers gute Semmelknödel",2013,577419.5
+"Wimmers gute Semmelknödel",2014,564285.75
+"Wimmers gute Semmelknödel",2015,599830.0
+"Wimmers gute Semmelknödel",2016,599909.8
+"Wimmers gute Semmelknödel",2017,584112.72
+"Wimmers gute Semmelknödel",2018,574150.69
+"Wimmers gute Semmelknödel",2019,597037.0
+"Wimmers gute Semmelknödel",2020,617552.25
+"Wimmers gute Semmelknödel",2021,624468.25
+"Wimmers gute Semmelknödel",2022,571268.25
+"Wimmers gute Semmelknödel",2023,486813.25
+Vegie-spread,2012,347117.3
+Vegie-spread,2013,798760.5
+Vegie-spread,2014,750294.9
+Vegie-spread,2015,808945.3
+Vegie-spread,2016,770588.84
+Vegie-spread,2017,776949.16
+Vegie-spread,2018,744983.0
+Vegie-spread,2019,739012.6
+Vegie-spread,2020,777249.5
+Vegie-spread,2021,829622.2
+Vegie-spread,2022,799638.5
+Vegie-spread,2023,667543.4
+"Valkoinen suklaa",2012,140075.0
+"Valkoinen suklaa",2013,301145.0
+"Valkoinen suklaa",2014,279418.75
+"Valkoinen suklaa",2015,290858.75
+"Valkoinen suklaa",2016,302084.25
+"Valkoinen suklaa",2017,301547.19
+"Valkoinen suklaa",2018,278135.0
+"Valkoinen suklaa",2019,284342.5
+"Valkoinen suklaa",2020,290046.25
+"Valkoinen suklaa",2021,276152.5
+"Valkoinen suklaa",2022,287088.75
+"Valkoinen suklaa",2023,228832.5
+"Uncle Bob's Organic Dried Pears",2012,240120.0
+"Uncle Bob's Organic Dried Pears",2013,528840.0
+"Uncle Bob's Organic Dried Pears",2014,552420.0
+"Uncle Bob's Organic Dried Pears",2015,567600.0
+"Uncle Bob's Organic Dried Pears",2016,553302.0
+"Uncle Bob's Organic Dried Pears",2017,544686.3
+"Uncle Bob's Organic Dried Pears",2018,534636.0
+"Uncle Bob's Organic Dried Pears",2019,518700.0
+"Uncle Bob's Organic Dried Pears",2020,526530.0
+"Uncle Bob's Organic Dried Pears",2021,575820.0
+"Uncle Bob's Organic Dried Pears",2022,533130.0
+"Uncle Bob's Organic Dried Pears",2023,442470.0
+"Tunnbröd",2012,77616.0
+"Tunnbröd",2013,155979.0
+"Tunnbröd",2014,152784.0
+"Tunnbröd",2015,165663.0
+"Tunnbröd",2016,161352.0
+"Tunnbröd",2017,163631.7
+"Tunnbröd",2018,158202.0
+"Tunnbröd",2019,152217.0
+"Tunnbröd",2020,155898.0
+"Tunnbröd",2021,174429.0
+"Tunnbröd",2022,165384.0
+"Tunnbröd",2023,135450.0
+"Tourtière",2012,63853.95
+"Tourtière",2013,132557.85
+"Tourtière",2014,131723.45
+"Tourtière",2015,141460.6
+"Tourtière",2016,140326.65
+"Tourtière",2017,141277.49
+"Tourtière",2018,126265.95
+"Tourtière",2019,125510.15
+"Tourtière",2020,125808.15
+"Tourtière",2021,139322.45
+"Tourtière",2022,129652.35
+"Tourtière",2023,111370.05
+Tofu,2012,200298.75
+Tofu,2013,401550.75
+Tofu,2014,423754.5
+Tofu,2015,448608.75
+Tofu,2016,422838.45
+Tofu,2017,400624.24
+Tofu,2018,370790.3
+Tofu,2019,386159.25
+Tofu,2020,410548.5
+Tofu,2021,424173.0
+Tofu,2022,393831.75
+Tofu,2023,361560.75
+"Thüringer Rostbratwurst",2012,946498.34
+"Thüringer Rostbratwurst",2013,2086109.08
+"Thüringer Rostbratwurst",2014,2147137.55
+"Thüringer Rostbratwurst",2015,2290733.95
+"Thüringer Rostbratwurst",2016,2238045.07
+"Thüringer Rostbratwurst",2017,2328337.03
+"Thüringer Rostbratwurst",2018,2095777.08
+"Thüringer Rostbratwurst",2019,2036097.92
+"Thüringer Rostbratwurst",2020,2154936.32
+"Thüringer Rostbratwurst",2021,2284296.87
+"Thüringer Rostbratwurst",2022,2139091.2
+"Thüringer Rostbratwurst",2023,1876408.82
+"Teatime Chocolate Biscuits",2012,81797.2
+"Teatime Chocolate Biscuits",2013,157853.6
+"Teatime Chocolate Biscuits",2014,164128.0
+"Teatime Chocolate Biscuits",2015,181690.8
+"Teatime Chocolate Biscuits",2016,166786.75
+"Teatime Chocolate Biscuits",2017,168540.75
+"Teatime Chocolate Biscuits",2018,167427.12
+"Teatime Chocolate Biscuits",2019,156620.8
+"Teatime Chocolate Biscuits",2020,155489.2
+"Teatime Chocolate Biscuits",2021,175214.0
+"Teatime Chocolate Biscuits",2022,168590.0
+"Teatime Chocolate Biscuits",2023,145553.2
+"Tarte au sucre",2012,422846.1
+"Tarte au sucre",2013,843720.2
+"Tarte au sucre",2014,854763.4
+"Tarte au sucre",2015,882470.0
+"Tarte au sucre",2016,949163.15
+"Tarte au sucre",2017,933343.2
+"Tarte au sucre",2018,834274.32
+"Tarte au sucre",2019,829719.0
+"Tarte au sucre",2020,854714.1
+"Tarte au sucre",2021,918508.3
+"Tarte au sucre",2022,867877.2
+"Tarte au sucre",2023,761537.1
+"Steeleye Stout",2012,157878.0
+"Steeleye Stout",2013,314676.0
+"Steeleye Stout",2014,323136.0
+"Steeleye Stout",2015,334980.0
+"Steeleye Stout",2016,328564.8
+"Steeleye Stout",2017,308772.9
+"Steeleye Stout",2018,320532.3
+"Steeleye Stout",2019,307206.0
+"Steeleye Stout",2020,327492.0
+"Steeleye Stout",2021,331416.0
+"Steeleye Stout",2022,327402.0
+"Steeleye Stout",2023,258282.0
+Spegesild,2012,99576.0
+Spegesild,2013,206820.0
+Spegesild,2014,209832.0
+Spegesild,2015,233772.0
+Spegesild,2016,211648.32
+Spegesild,2017,208541.4
+Spegesild,2018,210329.28
+Spegesild,2019,210036.0
+Spegesild,2020,216540.0
+Spegesild,2021,230700.0
+Spegesild,2022,207348.0
+Spegesild,2023,169488.0
+"Sirop d'érable",2012,239229.0
+"Sirop d'érable",2013,499776.0
+"Sirop d'érable",2014,507357.0
+"Sirop d'érable",2015,533121.0
+"Sirop d'érable",2016,504336.0
+"Sirop d'érable",2017,537738.0
+"Sirop d'érable",2018,520512.6
+"Sirop d'érable",2019,493392.0
+"Sirop d'érable",2020,500517.0
+"Sirop d'érable",2021,521179.5
+"Sirop d'érable",2022,517503.0
+"Sirop d'érable",2023,465148.5
+"Sir Rodney's Scones",2012,89900.0
+"Sir Rodney's Scones",2013,180440.0
+"Sir Rodney's Scones",2014,178450.0
+"Sir Rodney's Scones",2015,185720.0
+"Sir Rodney's Scones",2016,184376.0
+"Sir Rodney's Scones",2017,190753.0
+"Sir Rodney's Scones",2018,174265.0
+"Sir Rodney's Scones",2019,165720.0
+"Sir Rodney's Scones",2020,166370.0
+"Sir Rodney's Scones",2021,188650.0
+"Sir Rodney's Scones",2022,173880.0
+"Sir Rodney's Scones",2023,148190.0
+"Sir Rodney's Marmalade",2012,680319.0
+"Sir Rodney's Marmalade",2013,1447956.0
+"Sir Rodney's Marmalade",2014,1436697.0
+"Sir Rodney's Marmalade",2015,1580391.0
+"Sir Rodney's Marmalade",2016,1549270.8
+"Sir Rodney's Marmalade",2017,1477869.3
+"Sir Rodney's Marmalade",2018,1376713.26
+"Sir Rodney's Marmalade",2019,1397493.0
+"Sir Rodney's Marmalade",2020,1442286.0
+"Sir Rodney's Marmalade",2021,1533330.0
+"Sir Rodney's Marmalade",2022,1469907.0
+"Sir Rodney's Marmalade",2023,1261575.0
+"Singaporean Hokkien Fried Mee",2012,119336.0
+"Singaporean Hokkien Fried Mee",2013,238266.0
+"Singaporean Hokkien Fried Mee",2014,248262.0
+"Singaporean Hokkien Fried Mee",2015,254646.0
+"Singaporean Hokkien Fried Mee",2016,254814.0
+"Singaporean Hokkien Fried Mee",2017,262854.2
+"Singaporean Hokkien Fried Mee",2018,248950.8
+"Singaporean Hokkien Fried Mee",2019,233632.0
+"Singaporean Hokkien Fried Mee",2020,240534.0
+"Singaporean Hokkien Fried Mee",2021,258258.0
+"Singaporean Hokkien Fried Mee",2022,243866.0
+"Singaporean Hokkien Fried Mee",2023,202678.0
+"Scottish Longbreads",2012,109225.0
+"Scottish Longbreads",2013,213975.0
+"Scottish Longbreads",2014,222187.5
+"Scottish Longbreads",2015,234087.5
+"Scottish Longbreads",2016,232281.5
+"Scottish Longbreads",2017,239545.0
+"Scottish Longbreads",2018,214162.5
+"Scottish Longbreads",2019,212175.0
+"Scottish Longbreads",2020,220687.5
+"Scottish Longbreads",2021,232087.5
+"Scottish Longbreads",2022,221862.5
+"Scottish Longbreads",2023,175812.5
+"Schoggi Schokolade",2012,365379.7
+"Schoggi Schokolade",2013,747880.4
+"Schoggi Schokolade",2014,797706.9
+"Schoggi Schokolade",2015,842528.8
+"Schoggi Schokolade",2016,768293.17
+"Schoggi Schokolade",2017,780497.1
+"Schoggi Schokolade",2018,737432.2
+"Schoggi Schokolade",2019,750251.0
+"Schoggi Schokolade",2020,733525.1
+"Schoggi Schokolade",2021,803852.9
+"Schoggi Schokolade",2022,842353.2
+"Schoggi Schokolade",2023,659378.0
+"Sasquatch Ale",2012,113694.0
+"Sasquatch Ale",2013,253358.0
+"Sasquatch Ale",2014,249522.0
+"Sasquatch Ale",2015,266952.0
+"Sasquatch Ale",2016,259722.4
+"Sasquatch Ale",2017,252959.0
+"Sasquatch Ale",2018,246043.0
+"Sasquatch Ale",2019,246512.0
+"Sasquatch Ale",2020,248808.0
+"Sasquatch Ale",2021,265006.0
+"Sasquatch Ale",2022,246064.0
+"Sasquatch Ale",2023,201964.0
+"Rössle Sauerkraut",2012,406797.6
+"Rössle Sauerkraut",2013,821894.4
+"Rössle Sauerkraut",2014,815008.8
+"Rössle Sauerkraut",2015,860472.0
+"Rössle Sauerkraut",2016,819310.28
+"Rössle Sauerkraut",2017,786139.08
+"Rössle Sauerkraut",2018,814612.08
+"Rössle Sauerkraut",2019,788515.2
+"Rössle Sauerkraut",2020,804338.4
+"Rössle Sauerkraut",2021,858921.6
+"Rössle Sauerkraut",2022,812272.8
+"Rössle Sauerkraut",2023,664483.2
+"Röd Kaviar",2012,128835.0
+"Röd Kaviar",2013,252945.0
+"Röd Kaviar",2014,259830.0
+"Röd Kaviar",2015,270885.0
+"Röd Kaviar",2016,275400.0
+"Röd Kaviar",2017,270637.5
+"Röd Kaviar",2018,251084.7
+"Röd Kaviar",2019,254670.0
+"Röd Kaviar",2020,259560.0
+"Röd Kaviar",2021,282000.0
+"Röd Kaviar",2022,256605.0
+"Röd Kaviar",2023,222780.0
+"Rogede sild",2012,84550.0
+"Rogede sild",2013,168815.0
+"Rogede sild",2014,171019.0
+"Rogede sild",2015,176187.0
+"Rogede sild",2016,166711.7
+"Rogede sild",2017,177167.88
+"Rogede sild",2018,159512.6
+"Rogede sild",2019,159894.5
+"Rogede sild",2020,155904.5
+"Rogede sild",2021,182305.0
+"Rogede sild",2022,164606.5
+"Rogede sild",2023,137218.0
+"Rhönbräu Klosterbier",2012,67355.25
+"Rhönbräu Klosterbier",2013,141228.25
+"Rhönbräu Klosterbier",2014,127611.5
+"Rhönbräu Klosterbier",2015,145483.0
+"Rhönbräu Klosterbier",2016,138455.92
+"Rhönbräu Klosterbier",2017,142164.3
+"Rhönbräu Klosterbier",2018,138904.02
+"Rhönbräu Klosterbier",2019,132083.25
+"Rhönbräu Klosterbier",2020,137330.0
+"Rhönbräu Klosterbier",2021,141670.0
+"Rhönbräu Klosterbier",2022,132044.5
+"Rhönbräu Klosterbier",2023,112809.0
+"Ravioli Angelo",2012,169026.0
+"Ravioli Angelo",2013,356343.0
+"Ravioli Angelo",2014,348757.5
+"Ravioli Angelo",2015,367321.5
+"Ravioli Angelo",2016,364256.1
+"Ravioli Angelo",2017,361307.7
+"Ravioli Angelo",2018,317742.75
+"Ravioli Angelo",2019,345345.0
+"Ravioli Angelo",2020,334444.5
+"Ravioli Angelo",2021,368823.0
+"Ravioli Angelo",2022,348952.5
+"Ravioli Angelo",2023,299773.5
+"Raclette Courdavault",2012,485760.0
+"Raclette Courdavault",2013,993355.0
+"Raclette Courdavault",2014,951885.0
+"Raclette Courdavault",2015,1067220.0
+"Raclette Courdavault",2016,1019605.4
+"Raclette Courdavault",2017,974790.3
+"Raclette Courdavault",2018,941270.0
+"Raclette Courdavault",2019,979055.0
+"Raclette Courdavault",2020,938465.0
+"Raclette Courdavault",2021,1028830.0
+"Raclette Courdavault",2022,1005290.0
+"Raclette Courdavault",2023,830885.0
+"Queso Manchego La Pastora",2012,315134.0
+"Queso Manchego La Pastora",2013,646646.0
+"Queso Manchego La Pastora",2014,682632.0
+"Queso Manchego La Pastora",2015,719948.0
+"Queso Manchego La Pastora",2016,687994.56
+"Queso Manchego La Pastora",2017,666609.3
+"Queso Manchego La Pastora",2018,633311.8
+"Queso Manchego La Pastora",2019,695172.0
+"Queso Manchego La Pastora",2020,657514.0
+"Queso Manchego La Pastora",2021,702848.0
+"Queso Manchego La Pastora",2022,706724.0
+"Queso Manchego La Pastora",2023,569848.0
+"Queso Cabrales",2012,187320.0
+"Queso Cabrales",2013,371721.0
+"Queso Cabrales",2014,352653.0
+"Queso Cabrales",2015,388647.0
+"Queso Cabrales",2016,392773.08
+"Queso Cabrales",2017,382622.94
+"Queso Cabrales",2018,359157.75
+"Queso Cabrales",2019,351309.0
+"Queso Cabrales",2020,377517.0
+"Queso Cabrales",2021,380835.0
+"Queso Cabrales",2022,359877.0
+"Queso Cabrales",2023,330414.0
+"Pâté chinois",2012,215376.0
+"Pâté chinois",2013,413664.0
+"Pâté chinois",2014,424584.0
+"Pâté chinois",2015,446688.0
+"Pâté chinois",2016,452805.12
+"Pâté chinois",2017,437672.88
+"Pâté chinois",2018,407228.4
+"Pâté chinois",2019,416664.0
+"Pâté chinois",2020,444984.0
+"Pâté chinois",2021,461856.0
+"Pâté chinois",2022,425832.0
+"Pâté chinois",2023,332064.0
+"Perth Pasties",2012,252756.8
+"Perth Pasties",2013,583676.0
+"Perth Pasties",2014,577148.8
+"Perth Pasties",2015,615787.2
+"Perth Pasties",2016,574938.16
+"Perth Pasties",2017,579774.73
+"Perth Pasties",2018,573330.88
+"Perth Pasties",2019,562028.0
+"Perth Pasties",2020,583249.6
+"Perth Pasties",2021,598108.0
+"Perth Pasties",2022,594762.4
+"Perth Pasties",2023,466120.8
+Pavlova,2012,143159.8
+Pavlova,2013,310121.4
+Pavlova,2014,320224.95
+Pavlova,2015,314047.65
+Pavlova,2016,322620.24
+Pavlova,2017,320233.17
+Pavlova,2018,300398.96
+Pavlova,2019,277961.05
+Pavlova,2020,305409.9
+Pavlova,2021,329682.85
+Pavlova,2022,310522.75
+Pavlova,2023,267229.3
+"Outback Lager",2012,132735.0
+"Outback Lager",2013,263190.0
+"Outback Lager",2014,277470.0
+"Outback Lager",2015,284655.0
+"Outback Lager",2016,270759.0
+"Outback Lager",2017,265013.4
+"Outback Lager",2018,273785.25
+"Outback Lager",2019,254850.0
+"Outback Lager",2020,266760.0
+"Outback Lager",2021,289890.0
+"Outback Lager",2022,271620.0
+"Outback Lager",2023,213735.0
+"Original Frankfurter grüne Soße",2012,111865.0
+"Original Frankfurter grüne Soße",2013,233753.0
+"Original Frankfurter grüne Soße",2014,231478.0
+"Original Frankfurter grüne Soße",2015,250172.0
+"Original Frankfurter grüne Soße",2016,235370.2
+"Original Frankfurter grüne Soße",2017,242349.38
+"Original Frankfurter grüne Soße",2018,230488.05
+"Original Frankfurter grüne Soße",2019,213642.0
+"Original Frankfurter grüne Soße",2020,214227.0
+"Original Frankfurter grüne Soße",2021,233649.0
+"Original Frankfurter grüne Soße",2022,231205.0
+"Original Frankfurter grüne Soße",2023,194766.0
+"NuNuCa Nuß-Nougat-Creme",2012,116438.0
+"NuNuCa Nuß-Nougat-Creme",2013,249088.0
+"NuNuCa Nuß-Nougat-Creme",2014,231112.0
+"NuNuCa Nuß-Nougat-Creme",2015,258860.0
+"NuNuCa Nuß-Nougat-Creme",2016,256443.6
+"NuNuCa Nuß-Nougat-Creme",2017,261700.6
+"NuNuCa Nuß-Nougat-Creme",2018,234574.2
+"NuNuCa Nuß-Nougat-Creme",2019,245182.0
+"NuNuCa Nuß-Nougat-Creme",2020,240114.0
+"NuNuCa Nuß-Nougat-Creme",2021,262920.0
+"NuNuCa Nuß-Nougat-Creme",2022,247100.0
+"NuNuCa Nuß-Nougat-Creme",2023,208684.0
+"Northwoods Cranberry Sauce",2012,331960.0
+"Northwoods Cranberry Sauce",2013,698480.0
+"Northwoods Cranberry Sauce",2014,712920.0
+"Northwoods Cranberry Sauce",2015,727120.0
+"Northwoods Cranberry Sauce",2016,777760.0
+"Northwoods Cranberry Sauce",2017,667300.0
+"Northwoods Cranberry Sauce",2018,693312.0
+"Northwoods Cranberry Sauce",2019,700080.0
+"Northwoods Cranberry Sauce",2020,735240.0
+"Northwoods Cranberry Sauce",2021,743040.0
+"Northwoods Cranberry Sauce",2022,686480.0
+"Northwoods Cranberry Sauce",2023,599960.0
+"Nord-Ost Matjeshering",2012,217294.77
+"Nord-Ost Matjeshering",2013,434848.44
+"Nord-Ost Matjeshering",2014,463223.88
+"Nord-Ost Matjeshering",2015,516039.48
+"Nord-Ost Matjeshering",2016,479927.61
+"Nord-Ost Matjeshering",2017,467135.29
+"Nord-Ost Matjeshering",2018,458829.05
+"Nord-Ost Matjeshering",2019,449786.97
+"Nord-Ost Matjeshering",2020,442615.44
+"Nord-Ost Matjeshering",2021,483314.52
+"Nord-Ost Matjeshering",2022,446550.72
+"Nord-Ost Matjeshering",2023,401812.8
+"Mozzarella di Giovanni",2012,270326.4
+"Mozzarella di Giovanni",2013,611227.2
+"Mozzarella di Giovanni",2014,640598.4
+"Mozzarella di Giovanni",2015,668960.4
+"Mozzarella di Giovanni",2016,625864.33
+"Mozzarella di Giovanni",2017,658360.8
+"Mozzarella di Giovanni",2018,611105.4
+"Mozzarella di Giovanni",2019,612897.6
+"Mozzarella di Giovanni",2020,622954.8
+"Mozzarella di Giovanni",2021,599917.2
+"Mozzarella di Giovanni",2022,607747.2
+"Mozzarella di Giovanni",2023,494090.4
+"Mishi Kobe Niku",2012,842542.0
+"Mishi Kobe Niku",2013,1621549.0
+"Mishi Kobe Niku",2014,1715251.0
+"Mishi Kobe Niku",2015,1784218.0
+"Mishi Kobe Niku",2016,1786061.0
+"Mishi Kobe Niku",2017,1766806.5
+"Mishi Kobe Niku",2018,1641919.0
+"Mishi Kobe Niku",2019,1731644.0
+"Mishi Kobe Niku",2020,1708752.0
+"Mishi Kobe Niku",2021,1734166.0
+"Mishi Kobe Niku",2022,1729219.0
+"Mishi Kobe Niku",2023,1360910.0
+Maxilaku,2012,167440.0
+Maxilaku,2013,358580.0
+Maxilaku,2014,331020.0
+Maxilaku,2015,348060.0
+Maxilaku,2016,377940.0
+Maxilaku,2017,343248.6
+Maxilaku,2018,360936.0
+Maxilaku,2019,345520.0
+Maxilaku,2020,350020.0
+Maxilaku,2021,368900.0
+Maxilaku,2022,370180.0
+Maxilaku,2023,300080.0
+"Mascarpone Fabioli",2012,289952.0
+"Mascarpone Fabioli",2013,560352.0
+"Mascarpone Fabioli",2014,570720.0
+"Mascarpone Fabioli",2015,598528.0
+"Mascarpone Fabioli",2016,581871.36
+"Mascarpone Fabioli",2017,571148.8
+"Mascarpone Fabioli",2018,564952.0
+"Mascarpone Fabioli",2019,517568.0
+"Mascarpone Fabioli",2020,529824.0
+"Mascarpone Fabioli",2021,583872.0
+"Mascarpone Fabioli",2022,544224.0
+"Mascarpone Fabioli",2023,468000.0
+"Manjimup Dried Apples",2012,474032.0
+"Manjimup Dried Apples",2013,924267.0
+"Manjimup Dried Apples",2014,860031.0
+"Manjimup Dried Apples",2015,934708.0
+"Manjimup Dried Apples",2016,950671.6
+"Manjimup Dried Apples",2017,996749.8
+"Manjimup Dried Apples",2018,922743.25
+"Manjimup Dried Apples",2019,951986.0
+"Manjimup Dried Apples",2020,899251.0
+"Manjimup Dried Apples",2021,1007053.0
+"Manjimup Dried Apples",2022,961155.0
+"Manjimup Dried Apples",2023,782121.0
+"Louisiana Hot Spiced Okra",2012,154615.0
+"Louisiana Hot Spiced Okra",2013,281945.0
+"Louisiana Hot Spiced Okra",2014,303450.0
+"Louisiana Hot Spiced Okra",2015,339898.0
+"Louisiana Hot Spiced Okra",2016,310675.0
+"Louisiana Hot Spiced Okra",2017,317832.0
+"Louisiana Hot Spiced Okra",2018,289119.0
+"Louisiana Hot Spiced Okra",2019,298027.0
+"Louisiana Hot Spiced Okra",2020,301835.0
+"Louisiana Hot Spiced Okra",2021,317934.0
+"Louisiana Hot Spiced Okra",2022,322320.0
+"Louisiana Hot Spiced Okra",2023,267291.0
+"Louisiana Fiery Hot Pepper Sauce",2012,165937.15
+"Louisiana Fiery Hot Pepper Sauce",2013,361323.25
+"Louisiana Fiery Hot Pepper Sauce",2014,368501.3
+"Louisiana Fiery Hot Pepper Sauce",2015,384225.65
+"Louisiana Fiery Hot Pepper Sauce",2016,399013.7
+"Louisiana Fiery Hot Pepper Sauce",2017,397156.29
+"Louisiana Fiery Hot Pepper Sauce",2018,373029.16
+"Louisiana Fiery Hot Pepper Sauce",2019,352250.7
+"Louisiana Fiery Hot Pepper Sauce",2020,377363.35
+"Louisiana Fiery Hot Pepper Sauce",2021,369195.95
+"Louisiana Fiery Hot Pepper Sauce",2022,391403.7
+"Louisiana Fiery Hot Pepper Sauce",2023,305603.9
+"Longlife Tofu",2012,77410.0
+"Longlife Tofu",2013,181650.0
+"Longlife Tofu",2014,172750.0
+"Longlife Tofu",2015,184040.0
+"Longlife Tofu",2016,189902.0
+"Longlife Tofu",2017,171820.5
+"Longlife Tofu",2018,174720.0
+"Longlife Tofu",2019,183480.0
+"Longlife Tofu",2020,176720.0
+"Longlife Tofu",2021,181670.0
+"Longlife Tofu",2022,173080.0
+"Longlife Tofu",2023,153350.0
+"Laughing Lumberjack Lager",2012,115542.0
+"Laughing Lumberjack Lager",2013,248080.0
+"Laughing Lumberjack Lager",2014,241710.0
+"Laughing Lumberjack Lager",2015,265440.0
+"Laughing Lumberjack Lager",2016,251804.0
+"Laughing Lumberjack Lager",2017,256970.0
+"Laughing Lumberjack Lager",2018,239962.8
+"Laughing Lumberjack Lager",2019,231070.0
+"Laughing Lumberjack Lager",2020,234262.0
+"Laughing Lumberjack Lager",2021,267176.0
+"Laughing Lumberjack Lager",2022,269178.0
+"Laughing Lumberjack Lager",2023,200200.0
+"Lakkalikööri",2012,159084.0
+"Lakkalikööri",2013,288846.0
+"Lakkalikööri",2014,326538.0
+"Lakkalikööri",2015,325458.0
+"Lakkalikööri",2016,329196.24
+"Lakkalikööri",2017,330461.1
+"Lakkalikööri",2018,314657.1
+"Lakkalikööri",2019,312876.0
+"Lakkalikööri",2020,319248.0
+"Lakkalikööri",2021,343980.0
+"Lakkalikööri",2022,317304.0
+"Lakkalikööri",2023,257058.0
+Konbu,2012,49212.0
+Konbu,2013,101172.0
+Konbu,2014,104976.0
+Konbu,2015,111660.0
+Konbu,2016,110792.4
+Konbu,2017,104468.94
+Konbu,2018,107993.1
+Konbu,2019,103686.0
+Konbu,2020,98088.0
+Konbu,2021,113316.0
+Konbu,2022,114264.0
+Konbu,2023,94980.0
+"Jack's New England Clam Chowder",2012,80095.0
+"Jack's New England Clam Chowder",2013,167533.65
+"Jack's New England Clam Chowder",2014,170930.45
+"Jack's New England Clam Chowder",2015,178727.65
+"Jack's New England Clam Chowder",2016,171737.8
+"Jack's New England Clam Chowder",2017,180510.05
+"Jack's New England Clam Chowder",2018,164244.45
+"Jack's New England Clam Chowder",2019,157352.9
+"Jack's New England Clam Chowder",2020,169164.5
+"Jack's New England Clam Chowder",2021,182655.2
+"Jack's New England Clam Chowder",2022,166568.65
+"Jack's New England Clam Chowder",2023,141362.85
+"Ipoh Coffee",2012,388516.0
+"Ipoh Coffee",2013,778596.0
+"Ipoh Coffee",2014,832002.0
+"Ipoh Coffee",2015,803620.0
+"Ipoh Coffee",2016,806343.2
+"Ipoh Coffee",2017,882585.9
+"Ipoh Coffee",2018,758659.6
+"Ipoh Coffee",2019,792074.0
+"Ipoh Coffee",2020,860154.0
+"Ipoh Coffee",2021,887570.0
+"Ipoh Coffee",2022,847136.0
+"Ipoh Coffee",2023,696118.0
+"Inlagd Sill",2012,173679.0
+"Inlagd Sill",2013,336984.0
+"Inlagd Sill",2014,339245.0
+"Inlagd Sill",2015,372039.0
+"Inlagd Sill",2016,354829.56
+"Inlagd Sill",2017,339736.15
+"Inlagd Sill",2018,329464.75
+"Inlagd Sill",2019,304266.0
+"Inlagd Sill",2020,328586.0
+"Inlagd Sill",2021,347833.0
+"Inlagd Sill",2022,315951.0
+"Inlagd Sill",2023,280174.0
+Ikura,2012,275993.0
+Ikura,2013,569966.0
+Ikura,2014,541229.0
+Ikura,2015,547615.0
+Ikura,2016,560828.44
+Ikura,2017,565703.5
+Ikura,2018,525121.4
+Ikura,2019,554590.0
+Ikura,2020,543368.0
+Ikura,2021,563735.0
+Ikura,2022,527155.0
+Ikura,2023,463419.0
+"Gustaf's Knäckebröd",2012,193158.0
+"Gustaf's Knäckebröd",2013,367668.0
+"Gustaf's Knäckebröd",2014,391167.0
+"Gustaf's Knäckebröd",2015,370125.0
+"Gustaf's Knäckebröd",2016,382169.76
+"Gustaf's Knäckebröd",2017,389751.6
+"Gustaf's Knäckebröd",2018,361620.0
+"Gustaf's Knäckebröd",2019,340788.0
+"Gustaf's Knäckebröd",2020,334761.0
+"Gustaf's Knäckebröd",2021,384993.0
+"Gustaf's Knäckebröd",2022,374766.0
+"Gustaf's Knäckebröd",2023,313761.0
+"Gumbär Gummibärchen",2012,261145.26
+"Gumbär Gummibärchen",2013,549117.09
+"Gumbär Gummibärchen",2014,545900.4
+"Gumbär Gummibärchen",2015,600802.74
+"Gumbär Gummibärchen",2016,584364.42
+"Gumbär Gummibärchen",2017,604031.69
+"Gumbär Gummibärchen",2018,554474.6
+"Gumbär Gummibärchen",2019,543995.37
+"Gumbär Gummibärchen",2020,540778.68
+"Gumbär Gummibärchen",2021,581658.75
+"Gumbär Gummibärchen",2022,581096.61
+"Gumbär Gummibärchen",2023,443653.38
+"Gula Malacca",2012,169020.5
+"Gula Malacca",2013,334812.3
+"Gula Malacca",2014,351753.25
+"Gula Malacca",2015,355546.0
+"Gula Malacca",2016,339460.72
+"Gula Malacca",2017,347560.29
+"Gula Malacca",2018,338476.68
+"Gula Malacca",2019,322169.8
+"Gula Malacca",2020,312483.7
+"Gula Malacca",2021,368810.9
+"Gula Malacca",2022,352297.85
+"Gula Malacca",2023,288754.7
+Gudbrandsdalsost,2012,322920.0
+Gudbrandsdalsost,2013,637416.0
+Gudbrandsdalsost,2014,597636.0
+Gudbrandsdalsost,2015,711900.0
+Gudbrandsdalsost,2016,659007.36
+Gudbrandsdalsost,2017,627942.6
+Gudbrandsdalsost,2018,613364.4
+Gudbrandsdalsost,2019,613656.0
+Gudbrandsdalsost,2020,615564.0
+Gudbrandsdalsost,2021,655704.0
+Gudbrandsdalsost,2022,645192.0
+Gudbrandsdalsost,2023,530280.0
+"Guaraná Fantástica",2012,37674.0
+"Guaraná Fantástica",2013,77211.0
+"Guaraná Fantástica",2014,75825.0
+"Guaraná Fantástica",2015,82849.5
+"Guaraná Fantástica",2016,81457.74
+"Guaraná Fantástica",2017,80105.63
+"Guaraná Fantástica",2018,80185.5
+"Guaraná Fantástica",2019,79906.5
+"Guaraná Fantástica",2020,78669.0
+"Guaraná Fantástica",2021,85144.5
+"Guaraná Fantástica",2022,82372.5
+"Guaraná Fantástica",2023,66856.5
+"Gravad lax",2012,221468.0
+"Gravad lax",2013,453102.0
+"Gravad lax",2014,446550.0
+"Gravad lax",2015,486070.0
+"Gravad lax",2016,462051.2
+"Gravad lax",2017,470813.2
+"Gravad lax",2018,444886.0
+"Gravad lax",2019,448344.0
+"Gravad lax",2020,445198.0
+"Gravad lax",2021,474318.0
+"Gravad lax",2022,481338.0
+"Gravad lax",2023,410800.0
+"Grandma's Boysenberry Spread",2012,215475.0
+"Grandma's Boysenberry Spread",2013,448300.0
+"Grandma's Boysenberry Spread",2014,443175.0
+"Grandma's Boysenberry Spread",2015,482225.0
+"Grandma's Boysenberry Spread",2016,445220.0
+"Grandma's Boysenberry Spread",2017,436100.0
+"Grandma's Boysenberry Spread",2018,424167.0
+"Grandma's Boysenberry Spread",2019,428500.0
+"Grandma's Boysenberry Spread",2020,431125.0
+"Grandma's Boysenberry Spread",2021,465700.0
+"Grandma's Boysenberry Spread",2022,437975.0
+"Grandma's Boysenberry Spread",2023,379525.0
+"Gorgonzola Telino",2012,107350.0
+"Gorgonzola Telino",2013,227862.5
+"Gorgonzola Telino",2014,219425.0
+"Gorgonzola Telino",2015,233687.5
+"Gorgonzola Telino",2016,228142.0
+"Gorgonzola Telino",2017,237925.75
+"Gorgonzola Telino",2018,209915.63
+"Gorgonzola Telino",2019,211875.0
+"Gorgonzola Telino",2020,220162.5
+"Gorgonzola Telino",2021,237500.0
+"Gorgonzola Telino",2022,227425.0
+"Gorgonzola Telino",2023,181387.5
+"Gnocchi di nonna Alice",2012,339150.0
+"Gnocchi di nonna Alice",2013,658426.0
+"Gnocchi di nonna Alice",2014,663898.0
+"Gnocchi di nonna Alice",2015,721240.0
+"Gnocchi di nonna Alice",2016,667801.36
+"Gnocchi di nonna Alice",2017,697604.0
+"Gnocchi di nonna Alice",2018,647449.7
+"Gnocchi di nonna Alice",2019,681682.0
+"Gnocchi di nonna Alice",2020,669256.0
+"Gnocchi di nonna Alice",2021,678072.0
+"Gnocchi di nonna Alice",2022,659376.0
+"Gnocchi di nonna Alice",2023,562932.0
+"Genen Shouyu",2012,127053.5
+"Genen Shouyu",2013,264275.0
+"Genen Shouyu",2014,263856.5
+"Genen Shouyu",2015,304311.5
+"Genen Shouyu",2016,287153.0
+"Genen Shouyu",2017,282706.83
+"Genen Shouyu",2018,254355.0
+"Genen Shouyu",2019,270428.5
+"Genen Shouyu",2020,280705.0
+"Genen Shouyu",2021,291105.5
+"Genen Shouyu",2022,273125.5
+"Genen Shouyu",2023,227121.5
+Geitost,2012,21992.5
+Geitost,2013,41855.0
+Geitost,2014,45287.5
+Geitost,2015,46647.5
+Geitost,2016,45320.5
+Geitost,2017,45023.5
+Geitost,2018,42564.13
+Geitost,2019,45067.5
+Geitost,2020,44710.0
+Geitost,2021,47107.5
+Geitost,2022,45660.0
+Geitost,2023,35885.0
+Flotemysost,2012,180750.5
+Flotemysost,2013,363780.0
+Flotemysost,2014,374960.0
+Flotemysost,2015,405662.0
+Flotemysost,2016,362997.4
+Flotemysost,2017,389891.75
+Flotemysost,2018,379845.88
+Flotemysost,2019,363866.0
+Flotemysost,2020,388741.5
+Flotemysost,2021,387193.5
+Flotemysost,2022,394654.0
+Flotemysost,2023,304268.0
+"Filo Mix",2012,57134.0
+"Filo Mix",2013,123830.0
+"Filo Mix",2014,128786.0
+"Filo Mix",2015,133784.0
+"Filo Mix",2016,130992.4
+"Filo Mix",2017,128026.15
+"Filo Mix",2018,117636.4
+"Filo Mix",2019,127603.0
+"Filo Mix",2020,118104.0
+"Filo Mix",2021,124397.0
+"Filo Mix",2022,130102.0
+"Filo Mix",2023,100975.0
+"Escargots de Bourgogne",2012,107934.5
+"Escargots de Bourgogne",2013,215696.75
+"Escargots de Bourgogne",2014,234617.75
+"Escargots de Bourgogne",2015,241653.5
+"Escargots de Bourgogne",2016,230006.75
+"Escargots de Bourgogne",2017,230108.77
+"Escargots de Bourgogne",2018,211923.15
+"Escargots de Bourgogne",2019,224720.0
+"Escargots de Bourgogne",2020,226310.0
+"Escargots de Bourgogne",2021,241693.25
+"Escargots de Bourgogne",2022,243150.75
+"Escargots de Bourgogne",2023,210158.25
+"Côte de Blaye",2012,2198644.0
+"Côte de Blaye",2013,4435495.5
+"Côte de Blaye",2014,4449724.5
+"Côte de Blaye",2015,4868162.5
+"Côte de Blaye",2016,4840336.9
+"Côte de Blaye",2017,4590093.58
+"Côte de Blaye",2018,4659865.75
+"Côte de Blaye",2019,4782788.5
+"Côte de Blaye",2020,4636809.5
+"Côte de Blaye",2021,5074746.5
+"Côte de Blaye",2022,4761445.0
+"Côte de Blaye",2023,3967783.0
+Chocolade,2012,106985.25
+Chocolade,2013,236346.75
+Chocolade,2014,225088.5
+Chocolade,2015,243333.75
+Chocolade,2016,233949.75
+Chocolade,2017,217292.51
+Chocolade,2018,216887.7
+Chocolade,2019,224259.75
+Chocolade,2020,221161.5
+Chocolade,2021,239776.5
+Chocolade,2022,225279.75
+Chocolade,2023,181330.5
+"Chef Anton's Gumbo Mix",2012,176372.35
+"Chef Anton's Gumbo Mix",2013,370956.25
+"Chef Anton's Gumbo Mix",2014,367284.05
+"Chef Anton's Gumbo Mix",2015,374372.25
+"Chef Anton's Gumbo Mix",2016,388835.9
+"Chef Anton's Gumbo Mix",2017,392402.33
+"Chef Anton's Gumbo Mix",2018,379891.23
+"Chef Anton's Gumbo Mix",2019,363441.05
+"Chef Anton's Gumbo Mix",2020,352339.05
+"Chef Anton's Gumbo Mix",2021,394142.35
+"Chef Anton's Gumbo Mix",2022,377083.7
+"Chef Anton's Gumbo Mix",2023,323900.85
+"Chef Anton's Cajun Seasoning",2012,169730.0
+"Chef Anton's Cajun Seasoning",2013,385286.0
+"Chef Anton's Cajun Seasoning",2014,377608.0
+"Chef Anton's Cajun Seasoning",2015,395120.0
+"Chef Anton's Cajun Seasoning",2016,411733.52
+"Chef Anton's Cajun Seasoning",2017,389752.88
+"Chef Anton's Cajun Seasoning",2018,376821.5
+"Chef Anton's Cajun Seasoning",2019,383196.0
+"Chef Anton's Cajun Seasoning",2020,387376.0
+"Chef Anton's Cajun Seasoning",2021,404382.0
+"Chef Anton's Cajun Seasoning",2022,397342.0
+"Chef Anton's Cajun Seasoning",2023,292226.0
+"Chartreuse verte",2012,154350.0
+"Chartreuse verte",2013,312210.0
+"Chartreuse verte",2014,304128.0
+"Chartreuse verte",2015,328356.0
+"Chartreuse verte",2016,322644.24
+"Chartreuse verte",2017,329501.7
+"Chartreuse verte",2018,321582.6
+"Chartreuse verte",2019,314766.0
+"Chartreuse verte",2020,317988.0
+"Chartreuse verte",2021,329832.0
+"Chartreuse verte",2022,323460.0
+"Chartreuse verte",2023,275508.0
+Chang,2012,156199.0
+Chang,2013,334856.0
+Chang,2014,326420.0
+Chang,2015,375706.0
+Chang,2016,355049.96
+Chang,2017,347955.55
+Chang,2018,335132.45
+Chang,2019,320568.0
+Chang,2020,321955.0
+Chang,2021,358245.0
+Chang,2022,339777.0
+Chang,2023,258647.0
+Chai,2012,150390.0
+Chai,2013,322614.0
+Chai,2014,314982.0
+Chai,2015,339426.0
+Chai,2016,326091.6
+Chai,2017,330705.0
+Chai,2018,312673.5
+Chai,2019,304506.0
+Chai,2020,316728.0
+Chai,2021,329292.0
+Chai,2022,335448.0
+Chai,2023,249318.0
+"Carnarvon Tigers",2012,555125.0
+"Carnarvon Tigers",2013,1075625.0
+"Carnarvon Tigers",2014,1116875.0
+"Carnarvon Tigers",2015,1150937.5
+"Carnarvon Tigers",2016,1132850.0
+"Carnarvon Tigers",2017,1143637.5
+"Carnarvon Tigers",2018,1057371.88
+"Carnarvon Tigers",2019,1097062.5
+"Carnarvon Tigers",2020,1106187.5
+"Carnarvon Tigers",2021,1130875.0
+"Carnarvon Tigers",2022,1102937.5
+"Carnarvon Tigers",2023,935187.5
+"Camembert Pierrot",2012,286586.0
+"Camembert Pierrot",2013,607614.0
+"Camembert Pierrot",2014,603466.0
+"Camembert Pierrot",2015,628048.0
+"Camembert Pierrot",2016,622316.96
+"Camembert Pierrot",2017,636993.4
+"Camembert Pierrot",2018,620965.12
+"Camembert Pierrot",2019,583882.0
+"Camembert Pierrot",2020,556308.0
+"Camembert Pierrot",2021,653786.0
+"Camembert Pierrot",2022,624444.0
+"Camembert Pierrot",2023,476034.0
+"Boston Crab Meat",2012,165048.0
+"Boston Crab Meat",2013,325514.4
+"Boston Crab Meat",2014,317602.4
+"Boston Crab Meat",2015,337088.0
+"Boston Crab Meat",2016,335726.3
+"Boston Crab Meat",2017,314353.13
+"Boston Crab Meat",2018,307059.2
+"Boston Crab Meat",2019,315836.0
+"Boston Crab Meat",2020,315744.0
+"Boston Crab Meat",2021,335947.2
+"Boston Crab Meat",2022,335321.6
+"Boston Crab Meat",2023,276644.0
+"Aniseed Syrup",2012,83210.0
+"Aniseed Syrup",2013,171740.0
+"Aniseed Syrup",2014,182940.0
+"Aniseed Syrup",2015,181410.0
+"Aniseed Syrup",2016,181740.0
+"Aniseed Syrup",2017,190054.0
+"Aniseed Syrup",2018,157510.0
+"Aniseed Syrup",2019,177210.0
+"Aniseed Syrup",2020,177220.0
+"Aniseed Syrup",2021,187300.0
+"Aniseed Syrup",2022,183020.0
+"Aniseed Syrup",2023,148270.0
+"Alice Mutton",2012,338676.0
+"Alice Mutton",2013,708903.0
+"Alice Mutton",2014,682266.0
+"Alice Mutton",2015,749697.0
+"Alice Mutton",2016,705803.28
+"Alice Mutton",2017,703029.6
+"Alice Mutton",2018,647848.5
+"Alice Mutton",2019,661128.0
+"Alice Mutton",2020,703599.0
+"Alice Mutton",2021,702819.0
+"Alice Mutton",2022,686790.0
+"Alice Mutton",2023,593853.0

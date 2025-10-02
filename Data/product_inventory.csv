@@ -1,0 +1,78 @@
+ProductName,UnitsInStock,UnitsOnOrder,ReorderLevel
+"Chef Anton's Gumbo Mix",0,0,0
+"Alice Mutton",0,0,0
+"Thüringer Rostbratwurst",0,0,0
+"Gorgonzola Telino",0,70,20
+"Perth Pasties",0,0,0
+"Sir Rodney's Scones",3,40,5
+"Louisiana Hot Spiced Okra",4,100,20
+"Longlife Tofu",4,20,5
+"Rogede sild",5,70,15
+"Northwoods Cranberry Sauce",6,0,0
+"Scottish Longbreads",6,10,15
+"Mascarpone Fabioli",9,40,25
+"Nord-Ost Matjeshering",10,0,15
+Maxilaku,10,60,15
+"Gravad lax",11,50,25
+"Aniseed Syrup",13,70,25
+"Mozzarella di Giovanni",14,0,0
+"Uncle Bob's Organic Dried Pears",15,0,10
+"Gumbär Gummibärchen",15,0,0
+Chocolade,15,70,25
+"Outback Lager",15,10,30
+Chang,17,40,25
+"Côte de Blaye",17,0,15
+"Ipoh Coffee",17,10,25
+"Tarte au sucre",17,0,0
+"Camembert Pierrot",19,0,0
+"Guaraná Fantástica",20,0,0
+"Steeleye Stout",20,0,15
+"Manjimup Dried Apples",20,0,10
+"Tourtière",21,0,10
+"Gnocchi di nonna Alice",21,10,30
+"Queso Cabrales",22,30,30
+"Wimmers gute Semmelknödel",22,80,30
+Konbu,24,0,5
+Vegie-spread,24,0,5
+"Teatime Chocolate Biscuits",25,0,5
+"Rössle Sauerkraut",26,0,0
+"Singaporean Hokkien Fried Mee",26,0,0
+Gudbrandsdalsost,26,0,15
+Flotemysost,26,0,0
+"Gula Malacca",27,0,15
+"Mishi Kobe Niku",29,0,0
+Pavlova,29,0,10
+Ikura,31,0,0
+"Original Frankfurter grüne Soße",32,0,15
+Tofu,35,0,0
+"Zaanse koeken",36,0,0
+"Ravioli Angelo",36,0,20
+"Filo Mix",38,0,25
+Chai,39,0,10
+"Genen Shouyu",39,0,5
+"Sir Rodney's Marmalade",40,0,0
+"Carnarvon Tigers",42,0,0
+"Schoggi Schokolade",49,0,30
+"Laughing Lumberjack Lager",52,0,10
+"Chef Anton's Cajun Seasoning",53,0,0
+"Lakkalikööri",57,0,20
+"Tunnbröd",61,0,25
+"Escargots de Bourgogne",62,0,20
+"Valkoinen suklaa",65,0,30
+"Chartreuse verte",69,0,5
+"NuNuCa Nuß-Nougat-Creme",76,0,30
+"Louisiana Fiery Hot Pepper Sauce",76,0,0
+"Raclette Courdavault",79,0,0
+"Jack's New England Clam Chowder",85,0,10
+"Queso Manchego La Pastora",86,0,0
+Spegesild,95,0,0
+"Röd Kaviar",101,0,5
+"Gustaf's Knäckebröd",104,0,25
+"Sasquatch Ale",111,0,15
+Geitost,112,0,20
+"Inlagd Sill",112,0,20
+"Sirop d'érable",113,0,25
+"Pâté chinois",115,0,20
+"Grandma's Boysenberry Spread",120,0,25
+"Boston Crab Meat",123,0,30
+"Rhönbräu Klosterbier",125,0,25

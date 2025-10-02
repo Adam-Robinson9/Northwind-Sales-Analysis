@@ -1,0 +1,23 @@
+ProductName,UnitsInStock,UnitsOnOrder,ReorderLevel
+"Chef Anton's Gumbo Mix",0,0,0
+"Alice Mutton",0,0,0
+"Thüringer Rostbratwurst",0,0,0
+"Gorgonzola Telino",0,70,20
+"Perth Pasties",0,0,0
+"Sir Rodney's Scones",3,40,5
+"Louisiana Hot Spiced Okra",4,100,20
+"Longlife Tofu",4,20,5
+"Rogede sild",5,70,15
+"Scottish Longbreads",6,10,15
+"Mascarpone Fabioli",9,40,25
+"Nord-Ost Matjeshering",10,0,15
+Maxilaku,10,60,15
+"Gravad lax",11,50,25
+"Aniseed Syrup",13,70,25
+Chocolade,15,70,25
+"Outback Lager",15,10,30
+Chang,17,40,25
+"Ipoh Coffee",17,10,25
+"Gnocchi di nonna Alice",21,10,30
+"Queso Cabrales",22,30,30
+"Wimmers gute Semmelknödel",22,80,30
